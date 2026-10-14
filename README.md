@@ -33,6 +33,7 @@ Key informations:
   * Extreme summer temperatures.
   * Lack of nearby facilities.
   * Unproven construction techniques for such a massive concrete structure.
+  * Hello.
 
 ## 4. Completion and Significance
 
